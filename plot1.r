@@ -1,6 +1,6 @@
 ## EDA Assignment 1
 ##
-## plot1.R - generates plot1.png
+## plot1.R - creates plot1.png
 
 ## First make certain the downloaded data is available,
 ## put it in the local working directory
